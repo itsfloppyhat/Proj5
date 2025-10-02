@@ -1,1 +1,5 @@
-This Project was a sentiment analysis of customer reviews for a theoretical company bikease. Amazingly, the sentiment analysis mapped positive, neutral, and negative reviews with 100% accuracy. The top 12 words from each category were generated as well, allowing stakeholders to quickly see what users are saying about the product for the different categories. This will make it simple to analyze and hopefully create new changes to make bike rental sales and satisfaction improve.
+This Project was a sentiment analysis of customer reviews for a theoretical company bikease. 
+Amazingly, the sentiment analysis mapped positive, neutral, and negative reviews with 100% accuracy. 
+he top 12 words from each category were generated as well, allowing stakeholders to quickly see what users are saying 
+about the product for the different categories. This will make it simple to analyze and hopefully create new changes to 
+make bike rental sales and satisfaction improve.
